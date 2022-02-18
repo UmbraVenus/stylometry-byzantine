@@ -1,10 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Journal of Stylometry of Byzantine Ivory Boxes
-# ### Author: Sage Ren, Diliana Angelova
-# ### Date: 2022-Feb-18th
-# ### Used Dataset: Cluny, Louvre Box, Veroli Box
+# # Journal of Stylometry of Byzantine Ivory Boxes - 20220218
+# Author: Sage Ren, Diliana Angelova
+# Used Dataset: Cluny, Louvre Box, Veroli Box
 
 # ## 1. Importing Prerequisites, Data Cleaning, and Augmentation
 
